@@ -1,7 +1,7 @@
 # Animal Adoption Centre
 
 ## Overview
-This is a JavaFX-based application that allows users to view adoption centres, see available animals for adoption, and filter animals by type (dog, cat, or all types). Each adoption centre is represented by a separate window displaying detailed information, including the name, location, capacity, and occupancy rate. The application allows for requesting a transfer of an animal and provides a combobox for filtering animals.
+This is a JavaFX-based application that allows users to view adoption centres, see available animals for adoption, and filter animals by type (dog, cat, or all types). Each adoption centre is represented by a separate window displaying detailed information, including the name, location, capacity, and occupancy rate.
 
 ## Features
 - **Adoption Centre Information:** View the name, location, capacity, and occupancy of each adoption centre.
